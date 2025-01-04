@@ -1,0 +1,21 @@
+{
+  "skeleton": "50320_skin_Salticidae03.skel",
+  "atlases": [
+    {
+      "atlas": "50320_skin_Salticidae03.atlas",
+      "tex_names": [
+        "50320_skin_Salticidae03"
+      ],
+      "textures": [
+        "50320_skin_Salticidae03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
